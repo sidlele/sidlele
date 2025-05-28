@@ -7,7 +7,7 @@ I'm a **React & Frontend Developer** passionate about crafting fast, responsive,
 ### 🧩 About Me
 
 - ✨ Building responsive and accessible web interfaces since **2021**  
-- 📚 Currently learning **Node.js** and **Java**  
+- 📚 Currently learning **Node.js** and **SpringBoot**  
 - 🛠️ Tech Stack: `JavaScript` | `TypeScript` | `React` | `Next.js` | `Tailwind CSS` | `Node.js` | `MongoDB` | `Express.js`  
 - 🎯 Key Skills: **Web Apps**, **Website Development**, **Backend API Integration**  
 - ⚡ I enjoy exploring new technologies and solving real-world problems with code
