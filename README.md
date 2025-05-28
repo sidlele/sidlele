@@ -24,5 +24,5 @@ About me
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
-📫 Reach me at: [your-email@example.com]  
-🌐 Portfolio: [your-portfolio-link]
+📫 Reach me at: [sidlele2000@gmail.com]  
+
